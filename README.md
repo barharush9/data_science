@@ -1,7 +1,7 @@
 # data_science
 
 - A Data Science project that incorporates all the essential features of a data system.
-- [In the scraping and crawling phase](#image6):
+- In the scraping and crawling phase:
   - Utilizing Selenium, a web browser automation tool.
   - Leveraging Beautiful Soup, a Python library for parsing HTML and XML files.
 - Data cleaning stage.
@@ -32,5 +32,3 @@
 ![Image 18](images/18.jpg)
 
 [Back To The Top](#top)
-
-<a name="image6"></a>
