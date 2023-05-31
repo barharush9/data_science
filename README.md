@@ -1,5 +1,5 @@
 # data_science
-- A Data Science project that incorporates all the essential features of a data system.
+<p>- A Data Science project that incorporates all the essential features of a data system.
 - In the scraping and crawling phase:
    - Utilizing Selenium, a web browser automation tool.
    - Leveraging Beautiful Soup, a Python library for parsing HTML and XML files.
@@ -11,7 +11,7 @@
    - Selenium for web automation.
    - Beautiful Soup for web scraping.
    - The Matplotlib library for data visualization.
-
+<p>
 ![](images/1.jpg)
 ![](images/2.jpg)
 ![](images/4.jpg)
