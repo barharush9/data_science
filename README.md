@@ -1,6 +1,5 @@
 # data_science
-/* עיצוב כותרות */
-Data Science Project on Flickr Website that integrates the entire process of aScraping &amp; Crawling  from data acquisition to machine learning.
+
 ![](images/1.jpg)
 ![](images/2.jpg)
 ![](images/4.jpg)
@@ -16,3 +15,4 @@ Data Science Project on Flickr Website that integrates the entire process of aSc
 ![](images/15.jpg)
 ![](images/17.jpg)
 ![](images/18.jpg)
+[Back To The Top](#read-me-template)
