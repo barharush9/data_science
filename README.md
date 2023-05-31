@@ -13,6 +13,5 @@ Data Science Project on Flickr Website that integrates the entire process of aSc
 ![](images/12.jpg)
 ![](images/14.jpg)
 ![](images/15.jpg)
-![](images/16.jpg)
 ![](images/17.jpg)
 ![](images/18.jpg)
