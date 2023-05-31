@@ -1,5 +1,47 @@
 # data_science
- <a href="#home" class="w3-bar-item w3-button"><b>data_science</b> flicker</a>
+/* עיצוב כותרות */
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/* עיצוב כותרות משנה */
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #666666;
+}
+
+/* עיצוב כותרות משנה נוספות */
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #999999;
+}
+
+/* עיצוב טקסט רגיל */
+p {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+/* עיצוב קישורים */
+a {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+/* עיצוב קישורים כאשר העכבר מעליהם */
+a:hover {
+  text-decoration: underline;
+}
 
 Data Science Project on Flickr Website that integrates the entire process of aScraping &amp; Crawling  from data acquisition to machine learning.
 ![](images/1.jpg)
